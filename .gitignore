@@ -1,0 +1,8 @@
+# VS Code
+.vscode/
+
+# Output
+output/
+
+# Main
+main.cpp
